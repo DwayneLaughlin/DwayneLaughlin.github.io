@@ -47,3 +47,19 @@
 .bodywordz {
     width: 960px;
 }
+
+.footbox{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    align-content: center;
+  
+}
+
+.footchild{
+    margin-top: auto;
+    border-top: 8px solid #4aaaa5;
+    text-align: center;
+    
+
+}
