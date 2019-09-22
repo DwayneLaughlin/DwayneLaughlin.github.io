@@ -110,10 +110,12 @@
 
 .picwordz{
     position: absolute;
-    font-size: 25px;
+    font-size: 18px;
     background-color:#4aaaa5;
     color: white;
     bottom: 0px;
-    width: 50%;
+    right: 5px;
+    bottom: 0px;
+    padding-right: 0px;
     align-content: center;
 }
