@@ -23,9 +23,7 @@
     margin: 10ox;
     padding:10px;
     color: white;
-    font-family: 'Georgia', Times, 'Times New Roman', serif;
-
-}
+    font-family: 'Georgia', Times, 'Times New Roman', serif;}
 
 .headz3{
     display: flex;
@@ -40,9 +38,7 @@
 .headz4 {
     flex: 1;
     margin: 10px;
-    padding: 10px;
-    
-}
+    padding: 10px;}
 
 .picz {
     width: 200px;
@@ -63,9 +59,7 @@
     background-color: lightgray;
     border-color: black;
     border: 10px; 
-    font-family: 'Georgia', Times, 'Times New Roman', serif;
-       
-}
+    font-family: 'Georgia', Times, 'Times New Roman', serif;  }
 
 .linez2{
     font-size: 1px;
