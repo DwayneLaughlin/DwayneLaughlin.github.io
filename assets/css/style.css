@@ -41,15 +41,15 @@
     padding: 10px;}
 
 .picz {
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     float: left;
     padding-right: 24px;
 }
 
 .picz2 {
-    width: 270px;
-    height: 270px;
+    width: 230px;
+    height: 230px;
     float: left;
     padding: 24px;
     position: relative;
